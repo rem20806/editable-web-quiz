@@ -171,6 +171,42 @@ data = [
     "category": "knowledge"
   },
   {
+    "question": "What color is the moon?"'
+    "answerA": "white",
+    "answerB": "dark gray",
+    "answerC": "blue",
+    "answerD": "yellow",
+    "correct": "answerB",
+    "category": "knowledge"
+  },
+  {
+    "question": "What is the moon made of?"'
+    "answerA": "cheese",
+    "answerB": "sand",
+    "answerC": "rocks",
+    "answerD": "dirt",
+    "correct": "answerC",
+    "category": "knowledge"
+  },
+  {
+    "question": "What year did we land on the moon?"'
+    "answerA": "1989",
+    "answerB": "2000",
+    "answerC": "1969",
+    "answerD": "1950",
+    "correct": "answerC",
+    "category": "knowledge"
+  },
+  {
+    "question": "What is the second planet from the Sun?"'
+    "answerA": "Earth",
+    "answerB": "Mars",
+    "answerC": "Jupiter",
+    "answerD": "Venus",
+    "correct": "answerD",
+    "category": "knowledge"
+  },
+  {
   "question": "Who was the first female Prime Minister of a European country?",
   "answerA": "Margaret Thatcher",
   "answerB": "Sirimavo Bandaranaike",
